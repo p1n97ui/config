@@ -168,6 +168,5 @@ export behemoth="behemoth.labs.overthewire.org"
 export utumno="utumno.labs.overthewire.org"
 export maze="maze.labs.overthewire.org"
 export vortex="vortex.labs.overthewire.org"
-export SHELLCODE=$(python -c 'f=open("/home/pingjui/bin/shellcode-32.bin","r"); print f.read(); f.close();')
 export access="liaop@access.engr.oregonstate.edu"
 
